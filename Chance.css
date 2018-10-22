@@ -1,0 +1,102 @@
+#Header {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px white;
+    text-align: center;
+    background-image: url(https://i.imgur.com/XKAwHQg.jpg);
+    background-size: 500px;
+}
+
+#LeftNav {
+    width: 400px;
+    border: solid 8px white;
+    float: left;
+    text-align: center;
+    padding-bottom: 8px;
+    background-image: url(https://i.imgur.com/fVwswJD.jpg);
+    background-size: 400px;
+}
+
+#RightNav {
+    width: 400px;
+    border: solid 8px white;
+    float: right;
+    text-align: center;
+    padding-bottom: 8px;
+}
+
+#RightNav h3 {
+    color: gold
+}
+
+#Content {
+    width: 700px;
+    border: solid 8px white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 15px;
+    background-image: url(https://i.imgur.com/gQQBFFe.jpg);
+    background-size: 800px;
+    background-repeat: no-repeat;
+}
+
+#Content p {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Content h3 {
+    color: white;
+}
+
+#Footer {
+    border: solid 8px white;
+    text-align: center;
+    background-image: url(https://cdn-images-1.medium.com/max/1600/1*27c6PMtOdor--xYbkVtekg.gif);
+    background-size: 700px;
+    background-repeat: no-repeat;
+    background-position: 50%; 
+}
+
+#Footer h3 {
+    color: gold;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#Header h1 {
+    font-size: 60px;
+    font-family: "ordinaryguyDEMO";
+    color: gold;
+    font-weight: bold;
+}
+
+p {
+    color: black;
+    font-family: "Arial";
+    font-weight: bold;
+}
+
+h3 {
+    font-family: "ordinaryguyDEMO";
+    color: Black;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+body {
+    background-color: black;
+}
